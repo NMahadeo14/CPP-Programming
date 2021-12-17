@@ -1,0 +1,33 @@
+Workshop 2 Reflection 
+Devin Mahadeo
+1060611174
+Dmahadeo2@myseneca.ca
+
+1. Static memory is the memory that the operating system allocates
+for the application at load time, static memory includes the memory
+allocated for the program instructions and program data, while dynamic
+memory is the memory that an application obtains from the operating system
+during execution, Dynamic memory is distinct from the static memory. 
+While the operating system allocated static memory for an application
+at load time, the system reserves dynamic memory, allocates it and deallocates
+it at run-time.
+
+2.While doing this workshop the errors i was coming accross was
+how to allocate data so that the application would take the values 
+i would enter and use that after execution, i would know how to 
+initialize the pointers and such, but after that step it was confusing
+on how to incorporated it into the code on pattern step on the wrap() function 
+for example.
+
+3. void gifting(char*) - this function took a single character pointer as a parameter
+void gifting(double&) - this function took a double reference as a parameter
+void gifting(int&) - this function took a int reference as a parameter 
+void gifting(Gift&) - this funtion took a Gift reference
+
+4. I Struggled with completing this Workshop only because i had trouble understanding
+how to properly allocate dynamic memory, and how to use that dynamic memory when i did
+finally allocate it, but in completing this workshop i learned how to properly use and 
+allocate dynamic memory for my applications after execution and how in doing this properly
+can prevent issue in compilation such as memory leak, or insufficent memory for my application
+to run.
+
