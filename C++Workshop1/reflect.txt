@@ -1,0 +1,13 @@
+Workshop 1 Reflection
+Devin Mahadeo 160611174
+
+In Workshop 1 we were the workshops main focus was on compiling modules together when given code, and putting together the header and cpp files for that code.
+In this Workshop i didnt run into many problems as the code was already done for me which i found as a surprise, it was more moving around code to where it
+should be and then creating the prototypes for the functions that was not provided which was easy. I only ran into 2 problems while doing the workshop which were
+problems in the way i used the namespace that was i was being instructed to use which was sdds and how to get my code to read the file FoxInSock.txt and produce
+an output. The problem with the namespace, i was doing using namespace sdds at the top of my files instead of namespace sdds{} and enclosing everything in the brackets
+so my code was not recognising that i had made function definitions for the prototypes that i was declaring. The issue for why i wasnt able to get an output from the
+source file was because i did not include the source file in the local directory of the project, once i included that into the correct directory i was able to get an output
+and everything worked correctly as it should have. Other then those problems, this lab was pretty easy, mainly because it was only rearranging code, not writing it myself 
+which would have made it significantly harder based on the code that was provided and what i would have had to code. After the first week of classes im feeling a little more 
+confident in my abilites to understand and debug code while looking at it, and have a better understanding of the concepts of addresses, values and references.  
