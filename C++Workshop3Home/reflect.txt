@@ -1,0 +1,22 @@
+Reflection 3
+Devin mahadeo
+160611174
+dmahadeo2@myseneca.ca
+
+1. the purpose of an empty state is to set the the values of members in a class to a safe, clean state where there is no garbage values that can affect the code or application. 
+Acceptable values that can be used when trying to set members to empty states can be nullptr if the member you’re dealing with is a pointer,
+ the null byte, if you’re with a array of characters, and simply 0 if ur dealing with numbers such as int with a doubles empty state being 0.0 or 0.00.
+
+2. the difference between structs and classes is that unlike structs where all members and functions local to that struct are publicly available to everything in the application,
+ classes are private by default with the use of a public keyword to distinguish the members and functions for what you want to be accessible. 
+in addition to this when using members or functions belonging to a class you must use the resolution operation to access the content of the class ::.
+
+3. The notion of class privacy is so that any clients that try to use the application you have made cannot access and change the main members of the class messing up the application in some way, 
+by providing class privacy and making copies that can be changed when using the application this ensures that the application is not being altered 
+in a way were it will affect how it works but can be used by client.
+
+4. while doing this workshop i learned the importance of the class privacy and how having that factors into how i
+ must change the code so that i can access members that were previously public and are now private, i was also faced with trying to learn how to move information between 
+2 objects which was very confusing to me at first, but by using temporary objects i was able to achieve this task, after this workshop i feel more confident in my ability to use 
+the visual studio debugged as well because of issues i was having in the lab portion and being able to solve it using that, it makes it clear to see where my code is going wrong 
+and how i can focus on certain sections of code to look for the solution to my problem.
