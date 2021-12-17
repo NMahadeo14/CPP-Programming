@@ -1,0 +1,25 @@
+Devin Mahadeo
+160611174
+Dmahadeo2
+Workshop 5 Reflection
+
+In this Workshop we practise the use of operator functions within the Code
+for this workshop i did have a significant amount of problems with the 
+implementation of the coding for the operators, this workshop was frustrating because 
+i had the understanding of what the operators should be doing but i would run into errors
+that i wasnt sure how to fix because of how the code should be implementing. after playing 
+around with the code for a bit and having cornel explain it to me i started to understand how it 
+was supposed to work and was able to complete the in lab portion on the workshop.
+
+when moving on to the at home portion it came down to knowing how to initialize an array so that 
+the code would know that it was supposed to be of infinite size and that i would be using dynamic memory
+to let the code know how big the array should be, i was able to implement the operator += alot faster and easier
+this time around, but figuring out how to properly deal with the dynamic memory for the Shiptype is where i struggled
+from this point onward because i was getting alot of exception errors dealing with not sizing the dynamic memory properly
+and then the code breaking because of access violation, i was able to figure out access violation but to fix the array 
+size for the type, i was misunderstanding the variables and what certain variables were actually doing so i was sizing
+the array incorrectly, after doing that i was able to figure out how to fix the code, and understand what is happening. 
+because of this misunderstanding i think i may have messed up alot on the midterm when it came to the operators, but 
+i think that after going over my code i should be ok moving forward, because my understanding is better then it was before
+and im not struggling as much as i was before. i think i definitly need to still spend more time on the operators to fully 
+get rid of any misunderstanding i have, but i should be fine if i need to implement any more in the future. 

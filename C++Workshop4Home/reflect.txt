@@ -1,0 +1,16 @@
+Workshop 4 reflection
+Dmahadeo2 160611174
+Dmahadeo2@myseneca.ca
+
+This workshop was by far the easiest for me after fixing the being able to identify the problems with submitting
+the in lab portion onto matrix, in this workshop i learned how a constructor and destructor work, and how to properly
+implement them into my code along with practising other concepts that we have learned in class, and was able to 
+complete the workshop with minimal errors, because of this i was able to look at all parts of this workshop and
+fully understand what different parts of the workshop were doing, while working on this workshop i ran into value
+errors that i was able to quickly fix because of the debugging tool that i have been able to practise using from the
+beginning of the semester, and i think that i am pretty good at using it, this helps me when im stuck on my code, and prevents
+me from being stuck on one place for too long, because i am able to identify where it is that my code is going wrong
+the only issues that i can see from myself is that when my code gives me exception errors, i do not know how to fix the problem
+and i fine that looking up exception errors dont really help aswell because online most solutions for these errors are 
+realy vague and hard to understand. if there is a why to figure out how to know what exceptions are giving me errors and how to
+fix them in my code, i feel like that would be the next step in me improving my coding and understanding skills.
