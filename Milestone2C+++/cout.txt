@@ -1,0 +1,7 @@
+cout << "Parking Menu, select an action:" << endl;
+		cout << "1- Park Vehicle\n";
+		cout << "2- Return Vehicle\n";
+		cout << "3- List Parked Vehicles\n";
+		cout << "4- Close Parking (End of day)\n";
+		cout << "5- Exit Program\n";
+		cout << ">";
