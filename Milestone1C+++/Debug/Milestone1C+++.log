@@ -1,0 +1,7 @@
+﻿  Menu.cpp
+C:\Users\devin\source\repos\C++Programming\Milestone1C+++\Menu.cpp(20,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C++Programming\Milestone1C+++\Menu.cpp(68,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C++Programming\Milestone1C+++\Menu.cpp(100,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ms1_MenuTester.cpp
+  Generating Code...
+  Milestone1C+++.vcxproj -> C:\Users\devin\source\repos\C++Programming\Milestone1C+++\Debug\Milestone1C+++.exe
