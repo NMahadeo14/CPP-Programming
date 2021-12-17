@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> Test 4 </title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href = "Test4.css"/>
+    <div class="padding"></div>
+    <div class = "color">
+            <div class = "name">
+    <h3> Devin Mahadeo </h3>
+        </div>
+    </div>
+    </head>
+   <body>
+   <div class="center">
+       <div class = "color"> <p> Declaration</p></div>       
+       <p>
+        I declare that this test is my own work in accordance with Seneca Academic policy
+        No part of this test has been copied manually or electronically from others or distributed
+        to other students
+       </p>
+        <form name = "frm1" method="POST" action = "http://httpbin.org/post"> 
+        <br>
+        <br>
+    <label> <div class = "color"> </label> </div>
+    <div class = "center"> 
+        Name: <u>Devin Mahadeo</u> Student Number <u> 160611174 </u>
+    </div>
+    <br>
+    <label> Name: </label>
+     <input type = "text" name = "fname" placeholder="LastName, FirstName"/>
+    <br>
+    <br>
+    <label> Program: </label>
+    <input list = "program" name="program" placeholder="Select a program">
+                <datalist id = "program">
+                    <option value="Select a program">
+                    <option value="BSD">
+                    <option value="IFS">
+                    <option value="CPA">
+                </datalist>
+    <br>
+    <br>
+    <label> My hobbies: </label>
+    <br>
+    <ol>
+        <li><input type = "checkbox" name = "hobbies" value = "Reading"> Reading</li>
+        <li><input type="checkbox" name="hobby" value="Swimming" > Swimming</li>
+        <li><input type="checkbox" name="hobby" value="Travelling" > Travelling</li>
+    </ol>
+   <br>
+   <br>
+   <input type="submit" value="Submit">
+   <input type="reset" value= "Reset">
+   <br>
+   <br>
+   <script src=Test4.js></script>
+   <input type="button" value="Goodluck">
+   </div>
+</div>
+</form>
+</body>
+</html>

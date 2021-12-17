@@ -1,0 +1,24 @@
+.padding
+{
+    padding-bottom: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right:30px;
+}
+
+.center
+{
+    background-color:#AAF9AA;
+    width: 50%;
+    margin: auto;
+}
+
+.name
+{
+    text-align: center;
+}
+
+.color
+{
+    color: red;
+}

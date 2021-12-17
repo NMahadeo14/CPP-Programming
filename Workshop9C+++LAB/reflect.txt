@@ -1,0 +1,17 @@
+Dmahadeo2
+160611174
+Workshop 9 Reflection
+
+This Workshop was also very easy to me, but im not sure at all if i really
+understand what templates are doing, i completed the workshop and did all the
+functions with what the instructions said to but im not sure what the template
+really did to affect my code,  which i guess isnt really a good thing because
+i completed the workshop but still had no clue what the Concept of the Workshop
+was doing. im trying to read into it more, and figure out what templates are used
+for. Im also getting better at completeing the Milestones while actually understanding
+what im doing and what the Milestone is asking of me. Of course i have the odd errors that 
+i ask for assistance for, but there have been a could of errors that ive gotten in the past
+that i now know how to fix if i get them and has helped improve my coding habits, another thing
+that ive noticed since then is that i should start trying to comment in my code, i never made a
+habit of this because not alot of other people were reading my code and i knew what my code was
+doing, so i never commented it for other people to understand.
